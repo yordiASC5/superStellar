@@ -1,0 +1,159 @@
+/*aqib,yor*/
+body{
+    text-align:left; 
+    color: rgb(255, 230, 0);
+    background-image:url("http://wallpapercave.com/wp/yFl3oIf.jpg");
+}
+.square{ 
+    height: 40px;
+    width: 100px;
+    display:inline-grid;
+}
+#first{
+    color: rgb(255, 230, 0);
+}
+#second{
+    color: rgb(255, 230, 0);
+}
+#third{
+    color: rgb(255, 230, 0);
+}
+#fourth{
+    color: rgb(255, 230, 0);
+}
+#fifth{
+    color: rgb(255, 230, 0);
+}
+#sixth{
+    color: rgb(255, 230, 0);
+}
+#seventh{
+    color: rgb(255, 230, 0);
+}
+#eighth{
+    color: rgb(255, 230, 0);
+
+}
+
+#pic1{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic2{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic3{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic4{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic5{
+    height:24%;
+    width:24%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic6{
+    height:23%;
+    width:23%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic7{
+    height:18%;
+    width:18%;
+    padding: 0; 
+    margin: 0; 
+}
+#pic8{
+    height:30%;
+    width:30%;
+    padding: 0; 
+    margin: 0; 
+}
+
+
+
+.row1{
+display: inline-grid;
+}
+
+h3{
+    display: inline
+}
+
+
+
+
+
+#button_IT {
+    background-color: rgb(194, 22, 122);
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+#color_of_Intsrgarm{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#button_color{
+    color: purple;
+    font-size: 20px;
+}
+
+#button_F {
+    background-color: rgb(57, 92, 197);
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+#color_of_face{
+    color: white;
+    text-decoration: none;
+}
+
+
+#button_TW {
+    background-color: rgb(69, 203, 226);
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+#color_of_Twiter{
+    color: white;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color:rgb(43, 66, 136);
+}
+footer{
+    font-size:18px;
+    color: black;
+}
